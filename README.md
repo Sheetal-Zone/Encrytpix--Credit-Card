@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, accuracy_score, precision_sco
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv("C:/Users/shiva/OneDrive/Desktop/internship encryptix/credit card/creditcard.csv")
+data = pd.read_csv(r"C:\Users\DELL\OneDrive\Desktop\encriptyx projects\credit card fraud\credit data\creditcard.csv")
 
 print("Dataset Overview:")
 print("-----------------")
